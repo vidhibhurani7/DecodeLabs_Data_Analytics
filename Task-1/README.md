@@ -1,13 +1,20 @@
 # Task 1 - Data Cleaning
 
-This task involves cleaning the Online Store Orders dataset.
+## Objective
 
-Tools Used:
-- Microsoft Excel
+Clean and prepare the Online Store Orders dataset for analysis.
 
-Dataset:
-- Online-Store-Orders_Cleaned.xlsx
+## Tools Used
 
-Outcome:
-- Removed errors and inconsistencies.
-- Prepared clean data for analysis.
+* Microsoft Excel
+
+## Dataset
+
+* Online-Store-Orders_Cleaned.xlsx
+
+## Outcome
+
+* Removed errors and inconsistencies.
+* Handled missing and duplicate values.
+* Standardized data format.
+* Prepared clean data for analysis.
