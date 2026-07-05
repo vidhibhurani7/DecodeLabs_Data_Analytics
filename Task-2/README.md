@@ -1,10 +1,24 @@
-# Task 2 - Data Analysis
+# Task 2 - Data Analytics Dashboard
 
-Tools Used:
-- Microsoft Excel
+## Objective
 
-Description:
-Performed data analysis using Excel functions, pivot tables, charts, and data cleaning techniques.
+Create an interactive Excel dashboard to analyze business sales data.
 
-Files:
-- Task-2_Excel_File.xlsx
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+
+## Dashboard Features
+
+* Sales Analysis
+* Product Performance
+* Customer Insights
+* Payment Method Analysis
+* Marketing Channel Analysis
+
+## Outcome
+
+Built an interactive dashboard that helps visualize business performance and supports data-driven decision making.
